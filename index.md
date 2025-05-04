@@ -2,7 +2,7 @@
 A car that follows a light-absorbing black line using Infrared sensors.
 
 :::info
-**Author**: Mohamed Daoudo  
+**Author**: Mohamed Daoudo  \
 **GitHub Project Link**: [https://github.com/Joan-DwD/Rusty-Car-Go-line-follower](https://github.com/Joan-DwD/Rusty-Car-Go-line-follower)
 :::
 
@@ -28,7 +28,7 @@ The L298N motor driver controls the speed and direction of DC motors connected t
 Finally, the chassis, it provides a well-structured body for the components ensuring stable operation, protection, and ease of assembly.
 
 
-![alt text](img1.jpeg)
+![alt text](img1.webp)
 
 
 ## Log
@@ -50,12 +50,12 @@ I worked on the code a bit, but I started working on the car by assembling the c
 - The robot chassis: It serves as the body of the robot and holds all components
 
 ### Pictures as of now
-![carlv](carlv.jpeg)
+![carlv](carlv.webp)
 
-![carlv1](carlv1.jpeg)
+![carlv1](carlv1.webp)
 
 ## Schematics
-![Schematic](schematic.jpeg)
+![Schematic](schematic.webp)
 
 
 
